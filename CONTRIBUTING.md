@@ -16,11 +16,7 @@ Contributing to this repository is easy! Here are the steps:
 
 ## Format
 
-| Country | Company | Hiring page |  Policy | Notes |
-|---------|---------|---------|----------|-------|
-| Country 1 | Company 1 | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
-| Country 2 | Company 2 | https://www.company2.com/hire | Encourages side-hustles and offers flexible schedules | N/A |
-| Country 3 | Company 3 | https://www.company3.com/hire | Offers a side-hustle program for employees | Must meet certain criteria to be eligible |
+- (name)[url] | city, country | industry | policy 
 
 ## Guidelines for Contributions
 

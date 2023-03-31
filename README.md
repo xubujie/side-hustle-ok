@@ -11,10 +11,21 @@ And if you want to help but aren't sure how to contribute, you can always add yo
 For country name, make sure you are using the name [here](https://countrycode.org/)
 
 ## Company list
+check out the [airtable](https://airtable.com/shrOeKbwHwexpDbdR) to sort filter
 
-| Country | Company | Hiring Page |  Policy | Notes |
-|---------|---------|---------|----------|-------|
-| Country | Company | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
+
+- [AEON Financial Service](http://www.aeonfs.com/index.html)| Japan| Finance
+- [Anicom](https://www.anicom.co.jp/recruit/)| Japan| Finance
+- [Ateam](https://www.a-tm.co.jp/recruit/)| Japan| IT
+- [DeNA](https://dena.com/jp/recruit/)| Japan| IT
+- [GaiaX Co Ltd](https://www.gaiax.co.jp/careers/)| Japan| IT
+- [Image Information](https://iis.image-inf.co.jp/recruit/graduates)| Japan| IT
+- [INTAGE Inc.](https://www.intageholdings.co.jp/recruit/)| Japan| IT
+- [JIG-SAW](https://recruit.jig-saw.com/)| Japan| IT
+- [JP Morgan](https://careers.jpmorgan.com/JP/ja/home)| USA| Finance
+- [Kaonavi Inc](https://corp.kaonavi.jp/recruit/?utm_source=kaonavi_hp&utm_medium=corp_link&utm_campaign=kaonavi_hp_corp_link_pc_20170316_company_01_corp_recruit&utm_term=kaonavi_hp_corp_link_pc_20170316_company_01_corp_recruit)| Japan| IT
+
+
 
 ## License
 

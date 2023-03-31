@@ -8,7 +8,7 @@ We welcome contributions to this repository! Please see the [CONTRIBUTING.md](./
 
 ## Company list
 
-| Country | Company | Hiring page |  Policy | Notes |
+| Country | Company | Hiring Page |  Policy | Notes |
 |---------|---------|---------|----------|-------|
 | Country 1 | Company 1 | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
 | Country 2 | Company 2 | https://www.company2.com/hire | Encourages side-hustles and offers flexible schedules | N/A |

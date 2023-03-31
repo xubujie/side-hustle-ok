@@ -4,17 +4,15 @@ This is a collection of companies that explicitly allow employees to do side-hus
 
 ## Contributing
 
-We welcome contributions to this repository! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute.
+We'd love for you to contribute to this repository! If you're not sure how to get started, don't worry - we've got you covered. Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute.
 
-If you don't know how to make contribution, you could add the your company to the [google-sheet](https://docs.google.com/spreadsheets/d/1eIjRECZrsrIWP4jwCgNxGxuGEnYKXwjePLWYitBqK54/edit#gid=0), it will be later be merged to the README.
+And if you want to help but aren't sure how to contribute, you can always add your company to our [Google Sheet](https://docs.google.com/spreadsheets/d/1eIjRECZrsrIWP4jwCgNxGxuGEnYKXwjePLWYitBqK54/edit#gid=0). We'll review it and include it in the README later on. Thanks for your interest in our project!
 
 ## Company list
 
 | Country | Company | Hiring Page |  Policy | Notes |
 |---------|---------|---------|----------|-------|
 | Country 1 | Company 1 | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
-| Country 2 | Company 2 | https://www.company2.com/hire | Encourages side-hustles and offers flexible schedules | N/A |
-| Country 3 | Company 3 | https://www.company3.com/hire | Offers a side-hustle program for employees | Must meet certain criteria to be eligible |
 
 ## License
 

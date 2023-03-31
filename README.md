@@ -8,11 +8,13 @@ We'd love for you to contribute to this repository! If you're not sure how to ge
 
 And if you want to help but aren't sure how to contribute, you can always add your company to our [Google Sheet](https://docs.google.com/spreadsheets/d/1eIjRECZrsrIWP4jwCgNxGxuGEnYKXwjePLWYitBqK54/edit#gid=0). We'll review it and include it in the README later on. Thanks for your interest in our project!
 
+For country name, make sure you are using the name [here](https://countrycode.org/)
+
 ## Company list
 
 | Country | Company | Hiring Page |  Policy | Notes |
 |---------|---------|---------|----------|-------|
-| Country 1 | Company 1 | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
+| Country | Company | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
 
 ## License
 

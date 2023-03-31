@@ -8,9 +8,11 @@ We welcome contributions to this repository! Please see the [CONTRIBUTING.md](./
 
 ## Company list
 
-| Company | Policy | Notes |
-| --- | --- | --- |
-| [Example Company](https://www.example.com/hire) | Employees are allowed to have side-hustles as long as they don't interfere with their work. | N/A |
+| Country | Company | Hiring page |  Policy | Notes |
+|---------|---------|---------|----------|-------|
+| Country 1 | Company 1 | https://www.company1.com/hire | Allows employees to work on their own projects outside of work hours | Employee must get approval from supervisor |
+| Country 2 | Company 2 | https://www.company2.com/hire | Encourages side-hustles and offers flexible schedules | N/A |
+| Country 3 | Company 3 | https://www.company3.com/hire | Offers a side-hustle program for employees | Must meet certain criteria to be eligible |
 
 ## License
 

@@ -6,6 +6,8 @@ This is a collection of companies that explicitly allow employees to do side-hus
 
 We welcome contributions to this repository! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute.
 
+If you don't know how to make contribution, you could add the your company to the [google-sheet](https://docs.google.com/spreadsheets/d/1eIjRECZrsrIWP4jwCgNxGxuGEnYKXwjePLWYitBqK54/edit#gid=0), it will be later be merged to the README.
+
 ## Company list
 
 | Country | Company | Hiring Page |  Policy | Notes |
